@@ -1,0 +1,14 @@
+{
+  "name": "whois_net_range",
+  "version": "1.0.0",
+  "description": "A scraper to find where all the IP addresses are.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Tomko",
+  "license": "ISC",
+  "dependencies": {
+    "whois-ux": "0.0.2"
+  }
+}

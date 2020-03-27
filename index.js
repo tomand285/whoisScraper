@@ -10,7 +10,7 @@ async function init(a,b){
 				for(let l = 0; l<256;l++){
 					let ip = i+"."+j+"."+k+"."+l;
 					console.log(ip);
-					//TODO: upgrade to use promise
+					
 					let package = await scrapeWhois(ip);
 
 					//console.log(package);

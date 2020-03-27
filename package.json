@@ -8,7 +8,5 @@
   },
   "author": "Andrew Tomko",
   "license": "ISC",
-  "dependencies": {
-    "whois-ux": "0.0.2"
-  }
+  "dependencies": {}
 }

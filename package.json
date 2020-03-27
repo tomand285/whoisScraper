@@ -8,5 +8,7 @@
   },
   "author": "Andrew Tomko",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "x-ray": "^2.3.4"
+  }
 }
